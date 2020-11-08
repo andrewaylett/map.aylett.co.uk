@@ -9,21 +9,12 @@ exports[`Home page matches snapshot 1`] = `
       <h1
         class="title"
       >
-        Welcome to aylett.co.uk
+        Map Links
       </h1>
       <p
         class="description"
       >
         Insert '90s “site under construction” gif here.
-      </p>
-      <p
-        class="description"
-      >
-        <a
-          href="/articles"
-        >
-          Articles
-        </a>
       </p>
     </main>
     <footer>
